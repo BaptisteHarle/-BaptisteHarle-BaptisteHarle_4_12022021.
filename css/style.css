@@ -777,7 +777,12 @@ h4 {
 .tc-white {
   color: #F3976C!important;
 }
-
+.section-5 {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
 .btn-atomic-tangerine {
   background: #F3976C;
   color: #FFFFFF!important;
